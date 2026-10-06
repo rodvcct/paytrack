@@ -1,9 +1,8 @@
-package com.example.paytrack.model;
+package com.example.paytrack.entity;
 
 import jakarta.persistence.*;
 
 import java.math.BigDecimal;
-import java.time.LocalDate;
 import java.time.LocalDate;
 
 

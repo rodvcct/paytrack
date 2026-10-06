@@ -1,4 +1,4 @@
-package com.example.paytrack.model;
+package com.example.paytrack.entity;
 
 public enum StatusBoleto {
 

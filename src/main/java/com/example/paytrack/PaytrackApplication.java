@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PaytrackApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PaytrackApplication.class, args);
+
+        SpringApplication.run(PaytrackApplication.class, args);
 	}
 
 }
